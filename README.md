@@ -1,6 +1,8 @@
 # CroPA_ICLR24
-This repository contains the code and data for the paper "An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models" accepted by ICLR 2024.
-
+This repository contains the code and data for the paper ["An Image Is Worth 1000 Lies: Transferability of Adversarial Images across Prompts on Vision-Language Models"](https://openreview.net/forum?id=nc5GgFAvtk) accepted by ICLR 2024.
+## Overview
+Overview of CroPA 
+![Cropa Overview](Cropa.png)
 ## Requirements
 The environment.yml file contains the necessary packages to run the code. You can create the environment using the following command:
 ```

@@ -1,0 +1,6 @@
+{
+    "hf_login_token": "<YOUR HF TOKEN>",
+    "data_root": "<YOUR data_root>",
+    "flamingo_checkpoint_path": "<YOUR PATH TO checkpoint.pt>",
+    "eval_batch_size": 10
+}
