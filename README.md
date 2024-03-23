@@ -25,6 +25,9 @@ python inference.py  --noise_dir /path/to/perturbation
 
 Pretrained perturbation can be found here: https://1drv.ms/u/c/4f881fa19ba8dfee/ERYe-4sAhPVEqbujubnuWxUByYtM676mnW8FQzaBkxtF-w?e=bIeOCh
 
+## Acknowledgement
+We would like to thank the authors of the following repositories for their code: https://github.com/mlfoundations/open_flamingo/
+
 ## Citation
 If you find this repository useful, please consider citing our paper:
 ```
