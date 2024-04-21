@@ -437,7 +437,7 @@ if __name__=="__main__":
     assert config_args.method in ["cropa","baseline"], "method not supported"
     add_extra_args(config_args, config_args.model_name)
     
-    module = importlib.import_module(f"open_flamingo.eval.models.{config_args.model_name}")
+    module = importlib.import_module(f"models.{config_args.model_name}")
     if config_args.device >= 0:
         print("use specified gpu",config_args.device)
     else:
