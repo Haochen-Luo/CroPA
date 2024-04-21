@@ -25,6 +25,18 @@ python inference.py  --noise_dir /path/to/perturbation
 
 Pretrained perturbation can be found here: https://1drv.ms/u/c/4f881fa19ba8dfee/ERYe-4sAhPVEqbujubnuWxUByYtM676mnW8FQzaBkxtF-w?e=bIeOCh
 
+## Clarifications
+
+- Open-Flamingo model used in the paper
+    ```py
+    from huggingface_hub import hf_hub_download import torch
+
+    checkpoint_path = hf_hub_download("openflamingo/OpenFlamingo-9B-deprecated", "checkpoint.pt")
+    ```
+- Dataset used in the paper
+
+    The dataset used in the paper is a subset of MSCOCO validation set. We provide the dataset in the data/ directory.
+
 ## Acknowledgement
 We would like to thank the authors of the following repositories for their code: https://github.com/mlfoundations/open_flamingo/
 
