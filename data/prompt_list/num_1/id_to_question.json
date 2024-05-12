@@ -1,0 +1,4679 @@
+{
+    "262162": [
+        "What is the main object in the image?"
+    ],
+    "393277": [
+        "Are there any unusual elements in the image?"
+    ],
+    "393284": [
+        "Are there any filters applied to the image?"
+    ],
+    "262161": [
+        "What language is used in the image's text, if any?"
+    ],
+    "393372": [
+        "Does the image include a depth map?"
+    ],
+    "524450": [
+        "Does the image have an associated hashtag?"
+    ],
+    "262386": [
+        "Does the image have a frame?"
+    ],
+    "524577": [
+        "Does the image contain any celebrities?"
+    ],
+    "294": [
+        "What language is used in the image's text, if any?"
+    ],
+    "524621": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "524822": [
+        "What is the source of light in the image?"
+    ],
+    "536": [
+        "What language is used in the image's text, if any?"
+    ],
+    "262682": [
+        "What emotions does the image evoke?"
+    ],
+    "131611": [
+        "Are there any reflections in the image?"
+    ],
+    "544": [
+        "What is the dominant color in the image?"
+    ],
+    "524844": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "393809": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "262895": [
+        "Are there any filters applied to the image?"
+    ],
+    "43816": [
+        "Are there any reflections in the image?"
+    ],
+    "757": [
+        "Does the image depict night or day?"
+    ],
+    "525050": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "525058": [
+        "What are the image's copyright information?"
+    ],
+    "263014": [
+        "What is the focus of the image?"
+    ],
+    "885": [
+        "Are there any filters applied to the image?"
+    ],
+    "969": [
+        "What is the age of the people in the image?"
+    ],
+    "985": [
+        "Does the image depict any professional activities?"
+    ],
+    "132136": [
+        "What is the weather like in the image?"
+    ],
+    "1153": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "525568": [
+        "What is the texture of the main object in the image?"
+    ],
+    "394510": [
+        "What emotions does the image evoke?"
+    ],
+    "1342": [
+        "Is the image part of an advertisement?"
+    ],
+    "132415": [
+        "Does the image have a frame?"
+    ],
+    "525665": [
+        "Is there a signature in the image?"
+    ],
+    "394715": [
+        "What is the dominant color in the image?"
+    ],
+    "1525": [
+        "Does the image include a depth map?"
+    ],
+    "132652": [
+        "Are there any annotations on the image?"
+    ],
+    "1584": [
+        "What time of day does the image depict?"
+    ],
+    "525988": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "526044": [
+        "What is the texture of the main object in the image?"
+    ],
+    "437205": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "133251": [
+        "Is the image a long exposure shot?"
+    ],
+    "526580": [
+        "Does the image include a depth map?"
+    ],
+    "133386": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "133476": [
+        "Does the image depict night or day?"
+    ],
+    "526723": [
+        "What time of day does the image depict?"
+    ],
+    "2521": [
+        "Is the image a long exposure shot?"
+    ],
+    "133693": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "526962": [
+        "Are there any reflections in the image?"
+    ],
+    "133827": [
+        "Is the image blurred or sharp?"
+    ],
+    "133933": [
+        "Are there any repeated elements in the image?"
+    ],
+    "134010": [
+        "Is the image a panorama?"
+    ],
+    "396200": [
+        "Is the image a meme?"
+    ],
+    "134119": [
+        "What is the focus of the image?"
+    ],
+    "265234": [
+        "Does the image have borders?"
+    ],
+    "265372": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "396541": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "134483": [
+        "Is there a title for the image?"
+    ],
+    "546702": [
+        "What direction is the light coming from in the image?"
+    ],
+    "589": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "134649": [
+        "Is the image blurred or sharp?"
+    ],
+    "134856": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "134886": [
+        "What historical events does the image reference?"
+    ],
+    "528136": [
+        "Does the image look vintage or modern?"
+    ],
+    "528225": [
+        "What is the main color palette of the image?"
+    ],
+    "135155": [
+        "What is the location where the image was taken?"
+    ],
+    "397318": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "397512": [
+        "What is the caption of the image?"
+    ],
+    "528604": [
+        "Does the image contain any symbols?"
+    ],
+    "528738": [
+        "What is the theme of the image?"
+    ],
+    "135561": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "135572": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "135578": [
+        "What is the point of view in the image?"
+    ],
+    "331856": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "135673": [
+        "What type of animals are in the image, if any?"
+    ],
+    "528905": [
+        "Does the image look vintage or modern?"
+    ],
+    "398138": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "5064": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "5193": [
+        "Are there any repeated elements in the image?"
+    ],
+    "398534": [
+        "Is the image blurred or sharp?"
+    ],
+    "5352": [
+        "Does the image include a depth map?"
+    ],
+    "267521": [
+        "Is there a title for the image?"
+    ],
+    "136458": [
+        "What is the main object in the image?"
+    ],
+    "267694": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "136722": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "5690": [
+        "Is the image a selfie?"
+    ],
+    "5754": [
+        "Is the image a panorama?"
+    ],
+    "126766": [
+        "Does the image depict any seasonal elements?"
+    ],
+    "399212": [
+        "What is the setting of the image?"
+    ],
+    "268215": [
+        "Does the image have cultural significance?"
+    ],
+    "175785": [
+        "What is the texture of the main object in the image?"
+    ],
+    "268371": [
+        "What is the style of the image?"
+    ],
+    "6450": [
+        "What is the mood of the image?"
+    ],
+    "6484": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "399744": [
+        "What is the focus of the image?"
+    ],
+    "268745": [
+        "What is the main object in the image?"
+    ],
+    "530941": [
+        "Does the image contain any food items not included in the main meal?"
+    ],
+    "137727": [
+        "What direction is the light coming from in the image?"
+    ],
+    "275881": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "531092": [
+        "Does the image have an associated hashtag?"
+    ],
+    "137954": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "400123": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "531299": [
+        "Is the image blurred or sharp?"
+    ],
+    "263346": [
+        "Does the image have cultural significance?"
+    ],
+    "394444": [
+        "What is the main object in the image?"
+    ],
+    "394460": [
+        "What is the subject's pose in the image?"
+    ],
+    "400719": [
+        "What is the age of the people in the image?"
+    ],
+    "269678": [
+        "Does the image have a frame?"
+    ],
+    "269721": [
+        "What is the style of the image?"
+    ],
+    "400925": [
+        "Is the image a close-up or long shot?"
+    ],
+    "270001": [
+        "What type of animals are in the image, if any?"
+    ],
+    "88695": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "401244": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "270303": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "270376": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "401556": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "532732": [
+        "Is the image in black and white or color?"
+    ],
+    "532761": [
+        "Does the image have cultural significance?"
+    ],
+    "139637": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "482062": [
+        "Does the image depict night or day?"
+    ],
+    "219920": [
+        "What is the aspect ratio of the image?"
+    ],
+    "8844": [
+        "What is the weather like in the image?"
+    ],
+    "533329": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "402346": [
+        "Does the image depict night or day?"
+    ],
+    "533464": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "9262": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "271565": [
+        "Is the image in a raw or compressed format?"
+    ],
+    "9483": [
+        "What is the mood of the image?"
+    ],
+    "533805": [
+        "Is there a title for the image?"
+    ],
+    "140636": [
+        "Does the image contain any controversial elements?"
+    ],
+    "140661": [
+        "Does the image have borders?"
+    ],
+    "9603": [
+        "Does the image contain any celebrities?"
+    ],
+    "9800": [
+        "Does the image have an associated hashtag?"
+    ],
+    "329318": [
+        "What size is the image file?"
+    ],
+    "403065": [
+        "What is the age of the people in the image?"
+    ],
+    "534194": [
+        "What direction is the light coming from in the image?"
+    ],
+    "141002": [
+        "Does the image have borders?"
+    ],
+    "272185": [
+        "What size is the image file?"
+    ],
+    "534335": [
+        "What is the depth of field in the image?"
+    ],
+    "272212": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "10219": [
+        "What is the depth of field in the image?"
+    ],
+    "272440": [
+        "Is the image in black and white or color?"
+    ],
+    "534733": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "10496": [
+        "Does the image have a frame?"
+    ],
+    "10694": [
+        "Does the image contain any celebrities?"
+    ],
+    "141795": [
+        "What are the metadata of the image?"
+    ],
+    "403995": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "141910": [
+        "Are there any reflections in the image?"
+    ],
+    "404209": [
+        "What social issues does the image address?"
+    ],
+    "504293": [
+        "Are there any hidden elements in the image?"
+    ],
+    "404373": [
+        "Are there any unusual elements in the image?"
+    ],
+    "142246": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "535604": [
+        "What is the main color palette of the image?"
+    ],
+    "273493": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "404568": [
+        "What is the style of the image?"
+    ],
+    "273728": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "142774": [
+        "What is the dominant material in the image?"
+    ],
+    "417023": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "536110": [
+        "Is the image historical or contemporary?"
+    ],
+    "536200": [
+        "Is the image blurred or sharp?"
+    ],
+    "143010": [
+        "What is the dominant material in the image?"
+    ],
+    "536235": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "405183": [
+        "What cultural references can be found in the image?"
+    ],
+    "405191": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "405279": [
+        "What historical events does the image reference?"
+    ],
+    "12085": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "12153": [
+        "What is the style of the image?"
+    ],
+    "12323": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "143458": [
+        "Are there any unusual elements in the image?"
+    ],
+    "143560": [
+        "What is the style of the image?"
+    ],
+    "405740": [
+        "What direction is the light coming from in the image?"
+    ],
+    "198717": [
+        "What social issues does the image address?"
+    ],
+    "274939": [
+        "Does the image have cultural significance?"
+    ],
+    "406395": [
+        "What type of animals are in the image, if any?"
+    ],
+    "13220": [
+        "What is the mood of the image?"
+    ],
+    "144300": [
+        "Is the image a long exposure shot?"
+    ],
+    "24053": [
+        "Are there any unusual elements in the image?"
+    ],
+    "537701": [
+        "Does the image look vintage or modern?"
+    ],
+    "2255": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "275843": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "406949": [
+        "Is there a title for the image?"
+    ],
+    "144809": [
+        "Are there any annotations on the image?"
+    ],
+    "144932": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "144935": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "407168": [
+        "Does the image have borders?"
+    ],
+    "276146": [
+        "What are the image's copyright information?"
+    ],
+    "145208": [
+        "What time of day does the image depict?"
+    ],
+    "538465": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "14248": [
+        "What are the image's copyright information?"
+    ],
+    "14276": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "155319": [
+        "What is the main color palette of the image?"
+    ],
+    "145523": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "538775": [
+        "What is the main object in the image?"
+    ],
+    "407822": [
+        "What are the image's copyright information?"
+    ],
+    "276893": [
+        "What is the focus of the image?"
+    ],
+    "276969": [
+        "Does the image depict any professional activities?"
+    ],
+    "408112": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "539226": [
+        "Is the image a selfie?"
+    ],
+    "15029": [
+        "What time of day does the image depict?"
+    ],
+    "277174": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "146112": [
+        "What emotions does the image evoke?"
+    ],
+    "146190": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "539439": [
+        "What cultural references can be found in the image?"
+    ],
+    "277521": [
+        "Are there any annotations on the image?"
+    ],
+    "277625": [
+        "What is the dominant material in the image?"
+    ],
+    "277642": [
+        "Is the image a close-up or long shot?"
+    ],
+    "408894": [
+        "What are the dimensions of the image?"
+    ],
+    "539971": [
+        "Are there any buildings that aren't skyscrapers in the image?"
+    ],
+    "146767": [
+        "Are there any unusual elements in the image?"
+    ],
+    "146813": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "146825": [
+        "Does the image tell a story?"
+    ],
+    "483227": [
+        "Does the image have alt text?"
+    ],
+    "146929": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "540180": [
+        "Does the image have alt text?"
+    ],
+    "15968": [
+        "What is the aspect ratio of the image?"
+    ],
+    "540483": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "570695": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "16410": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "409630": [
+        "What are the dimensions of the image?"
+    ],
+    "395975": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "16593": [
+        "What time of day does the image depict?"
+    ],
+    "16631": [
+        "What direction is the light coming from in the image?"
+    ],
+    "409867": [
+        "What type of animals are in the image, if any?"
+    ],
+    "570755": [
+        "Does the image contain a horizon line?"
+    ],
+    "409914": [
+        "Does the image contain a horizon line?"
+    ],
+    "409921": [
+        "What is the point of view in the image?"
+    ],
+    "409964": [
+        "Is there any motion blur in the image?"
+    ],
+    "147904": [
+        "What historical events does the image reference?"
+    ],
+    "147921": [
+        "Does the image contain any food items not included in the main meal?"
+    ],
+    "16958": [
+        "Does the image have borders?"
+    ],
+    "410225": [
+        "What cultural references can be found in the image?"
+    ],
+    "17152": [
+        "What is the focus of the image?"
+    ],
+    "279386": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "148614": [
+        "Does the image depict night or day?"
+    ],
+    "148724": [
+        "What emotions does the image evoke?"
+    ],
+    "279838": [
+        "What social issues does the image address?"
+    ],
+    "279895": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "410988": [
+        "What is the subject's pose in the image?"
+    ],
+    "280083": [
+        "Does the image depict any professional activities?"
+    ],
+    "411282": [
+        "What is the weather like in the image?"
+    ],
+    "542509": [
+        "Does the image tell a story?"
+    ],
+    "149298": [
+        "Is the image in black and white or color?"
+    ],
+    "549224": [
+        "What is the setting of the image?"
+    ],
+    "18794": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "18903": [
+        "Is the image a selfie?"
+    ],
+    "412355": [
+        "Is the image staged or candid?"
+    ],
+    "412483": [
+        "What artistic techniques are used in the image?"
+    ],
+    "281455": [
+        "Is there a signature in the image?"
+    ],
+    "412531": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "543631": [
+        "Does the image have an associated hashtag?"
+    ],
+    "281759": [
+        "Does the image have a frame?"
+    ],
+    "281878": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "412975": [
+        "Is the image a long exposure shot?"
+    ],
+    "282046": [
+        "Are there any buildings that aren't skyscrapers in the image?"
+    ],
+    "151051": [
+        "What is the dominant color in the image?"
+    ],
+    "544365": [
+        "What historical events does the image reference?"
+    ],
+    "413552": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "20395": [
+        "What is the dominant color in the image?"
+    ],
+    "282553": [
+        "Does the image have a frame?"
+    ],
+    "151657": [
+        "Are there any annotations on the image?"
+    ],
+    "151742": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "282830": [
+        "What is the theme of the image?"
+    ],
+    "20777": [
+        "What is the main color palette of the image?"
+    ],
+    "545101": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "156397": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "414201": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "152192": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "283380": [
+        "Is the image a composite of multiple images?"
+    ],
+    "283432": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "283495": [
+        "What are the metadata of the image?"
+    ],
+    "414578": [
+        "Does the image have alt text?"
+    ],
+    "331250": [
+        "Does the image include a depth map?"
+    ],
+    "156497": [
+        "What is the setting of the image?"
+    ],
+    "69121": [
+        "What are the dimensions of the image?"
+    ],
+    "283816": [
+        "Does the image depict night or day?"
+    ],
+    "21711": [
+        "What emotions does the image evoke?"
+    ],
+    "546171": [
+        "Does the image contain a horizon line?"
+    ],
+    "153011": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "284097": [
+        "What is the caption of the image?"
+    ],
+    "284106": [
+        "What is the caption of the image?"
+    ],
+    "21979": [
+        "Is there any motion blur in the image?"
+    ],
+    "415196": [
+        "Does the image have an associated hashtag?"
+    ],
+    "21993": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "21994": [
+        "Is there any motion blur in the image?"
+    ],
+    "153130": [
+        "Is the image part of a series or collection?"
+    ],
+    "25529": [
+        "Does the image contain any symbols?"
+    ],
+    "22158": [
+        "Are there any repeated elements in the image?"
+    ],
+    "153283": [
+        "Are there any repeated elements in the image?"
+    ],
+    "134778": [
+        "What is the point of view in the image?"
+    ],
+    "153570": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "153632": [
+        "Is the image a panorama?"
+    ],
+    "284749": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "415828": [
+        "Is the image part of a series or collection?"
+    ],
+    "547000": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "22963": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "547258": [
+        "Are there any hidden elements in the image?"
+    ],
+    "285250": [
+        "What is the source of light in the image?"
+    ],
+    "495088": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "416467": [
+        "What is the mood of the image?"
+    ],
+    "154324": [
+        "Are there any repeated elements in the image?"
+    ],
+    "154363": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "154520": [
+        "Is the image in black and white or color?"
+    ],
+    "154584": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "285681": [
+        "Is the image a long exposure shot?"
+    ],
+    "23575": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "547875": [
+        "Does the image have an associated hashtag?"
+    ],
+    "416851": [
+        "Does the image contain any symbols?"
+    ],
+    "154861": [
+        "Does the image contain any symbols?"
+    ],
+    "285968": [
+        "What direction is the light coming from in the image?"
+    ],
+    "109907": [
+        "Is there a signature in the image?"
+    ],
+    "417085": [
+        "Does the image contain any celebrities?"
+    ],
+    "23879": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "548331": [
+        "Does the image contain any optical illusions?"
+    ],
+    "419074": [
+        "Does the image include a depth map?"
+    ],
+    "69568": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "548523": [
+        "Does the image have an associated hashtag?"
+    ],
+    "155478": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "155488": [
+        "Is the image staged or candid?"
+    ],
+    "548843": [
+        "What historical events does the image reference?"
+    ],
+    "286794": [
+        "Are there any repeated elements in the image?"
+    ],
+    "286858": [
+        "Are there any hidden elements in the image?"
+    ],
+    "375493": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "286981": [
+        "What emotions does the image evoke?"
+    ],
+    "24845": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "287305": [
+        "Are there any reflections in the image?"
+    ],
+    "156474": [
+        "What social issues does the image address?"
+    ],
+    "549718": [
+        "Does the image have alt text?"
+    ],
+    "118690": [
+        "Does the image contain any food items not included in the main meal?"
+    ],
+    "418701": [
+        "Is the image part of a series or collection?"
+    ],
+    "549937": [
+        "What are the dimensions of the image?"
+    ],
+    "550013": [
+        "Is there any use of symmetry in the image?"
+    ],
+    "156832": [
+        "Does the image depict night or day?"
+    ],
+    "550162": [
+        "Is the image in black and white or color?"
+    ],
+    "157053": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "288150": [
+        "Does the image contain any food items not included in the main meal?"
+    ],
+    "550350": [
+        "Is the image blurred or sharp?"
+    ],
+    "419408": [
+        "Are there any annotations on the image?"
+    ],
+    "26201": [
+        "Is the image historical or contemporary?"
+    ],
+    "222828": [
+        "Does the image have borders?"
+    ],
+    "288408": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "26371": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "26432": [
+        "Is there a title for the image?"
+    ],
+    "26501": [
+        "Does the image involve any wildlife?"
+    ],
+    "288847": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "157789": [
+        "What is the texture of the main object in the image?"
+    ],
+    "288890": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "568281": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "420110": [
+        "What is the age of the people in the image?"
+    ],
+    "420156": [
+        "What is the point of view in the image?"
+    ],
+    "289172": [
+        "What is the weather like in the image?"
+    ],
+    "551338": [
+        "What are the dimensions of the image?"
+    ],
+    "568290": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "289423": [
+        "Does the image contain any symbols?"
+    ],
+    "27371": [
+        "Does the image look vintage or modern?"
+    ],
+    "551692": [
+        "Does the image depict night or day?"
+    ],
+    "27617": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "551910": [
+        "What is the depth of field in the image?"
+    ],
+    "551974": [
+        "What language is used in the image's text, if any?"
+    ],
+    "158950": [
+        "What emotions does the image evoke?"
+    ],
+    "27897": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "290179": [
+        "What size is the image file?"
+    ],
+    "28157": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "290532": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "159500": [
+        "Are there any hidden elements in the image?"
+    ],
+    "28508": [
+        "What is the depth of field in the image?"
+    ],
+    "28682": [
+        "Is there any use of symmetry in the image?"
+    ],
+    "290979": [
+        "What are the image's copyright information?"
+    ],
+    "28864": [
+        "What cultural references can be found in the image?"
+    ],
+    "245162": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "29187": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "422424": [
+        "What are the metadata of the image?"
+    ],
+    "160308": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "160351": [
+        "Does the image contain any optical illusions?"
+    ],
+    "160498": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "291686": [
+        "What is the dominant material in the image?"
+    ],
+    "553852": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "291834": [
+        "What is the source of light in the image?"
+    ],
+    "29838": [
+        "Does the image have alt text?"
+    ],
+    "30012": [
+        "Is the image in black and white or color?"
+    ],
+    "292158": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "30067": [
+        "What is the aspect ratio of the image?"
+    ],
+    "161161": [
+        "Does the image have an associated hashtag?"
+    ],
+    "423358": [
+        "What is the depth of field in the image?"
+    ],
+    "161231": [
+        "What is the dominant material in the image?"
+    ],
+    "423410": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "30198": [
+        "What is the location where the image was taken?"
+    ],
+    "554523": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "554618": [
+        "Is the image part of an advertisement?"
+    ],
+    "292488": [
+        "What is the point of view in the image?"
+    ],
+    "30356": [
+        "What is the depth of field in the image?"
+    ],
+    "554711": [
+        "What is the aspect ratio of the image?"
+    ],
+    "267225": [
+        "What artistic techniques are used in the image?"
+    ],
+    "30607": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "555035": [
+        "Does the image have borders?"
+    ],
+    "161861": [
+        "Does the image depict any seasonal elements?"
+    ],
+    "507575": [
+        "What is the setting of the image?"
+    ],
+    "161877": [
+        "What is the weather like in the image?"
+    ],
+    "529139": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "424270": [
+        "Does the image have alt text?"
+    ],
+    "162130": [
+        "Does the image have borders?"
+    ],
+    "424601": [
+        "Is the image in a raw or compressed format?"
+    ],
+    "424744": [
+        "Does the image contain a horizon line?"
+    ],
+    "555905": [
+        "What is the setting of the image?"
+    ],
+    "293789": [
+        "What is the mood of the image?"
+    ],
+    "424879": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "31730": [
+        "Is there a title for the image?"
+    ],
+    "31878": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "31893": [
+        "What social issues does the image address?"
+    ],
+    "163020": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "163025": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "32001": [
+        "Is there a title for the image?"
+    ],
+    "163167": [
+        "What is the location where the image was taken?"
+    ],
+    "163280": [
+        "What is the aspect ratio of the image?"
+    ],
+    "311205": [
+        "Are there any repeated elements in the image?"
+    ],
+    "163348": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "294437": [
+        "What direction is the light coming from in the image?"
+    ],
+    "398604": [
+        "Does the image depict night or day?"
+    ],
+    "32364": [
+        "What are the image's copyright information?"
+    ],
+    "32715": [
+        "Does the image have borders?"
+    ],
+    "442367": [
+        "Does the image contain a horizon line?"
+    ],
+    "294992": [
+        "Is the image a meme?"
+    ],
+    "33008": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "426253": [
+        "Does the image have an associated hashtag?"
+    ],
+    "557339": [
+        "Is the image a selfie?"
+    ],
+    "33061": [
+        "Does the image involve any wildlife?"
+    ],
+    "557422": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "164602": [
+        "Is the image staged or candid?"
+    ],
+    "427070": [
+        "What emotions does the image evoke?"
+    ],
+    "164969": [
+        "What is the theme of the image?"
+    ],
+    "427135": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "165012": [
+        "What is the genre of the image?"
+    ],
+    "34020": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "296182": [
+        "What cultural references can be found in the image?"
+    ],
+    "311510": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "296265": [
+        "What is the setting of the image?"
+    ],
+    "427341": [
+        "What historical events does the image reference?"
+    ],
+    "296317": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "34205": [
+        "What is the point of view in the image?"
+    ],
+    "34257": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "558717": [
+        "Does the image contain any celebrities?"
+    ],
+    "558834": [
+        "Does the image have borders?"
+    ],
+    "558927": [
+        "Are there any unusual elements in the image?"
+    ],
+    "27662": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "166003": [
+        "What size is the image file?"
+    ],
+    "420914": [
+        "What historical events does the image reference?"
+    ],
+    "297314": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "35210": [
+        "Does the image have cultural significance?"
+    ],
+    "166340": [
+        "Does the image involve any wildlife?"
+    ],
+    "166391": [
+        "What is the focus of the image?"
+    ],
+    "166521": [
+        "Does the image depict any seasonal elements?"
+    ],
+    "297970": [
+        "What is the weather like in the image?"
+    ],
+    "552075": [
+        "Is the image a long exposure shot?"
+    ],
+    "297819": [
+        "Does the image depict any seasonal elements?"
+    ],
+    "166948": [
+        "What is the style of the image?"
+    ],
+    "35897": [
+        "What is the main object in the image?"
+    ],
+    "560218": [
+        "Does the image have borders?"
+    ],
+    "560222": [
+        "What are the image's copyright information?"
+    ],
+    "49683": [
+        "What are the dimensions of the image?"
+    ],
+    "429174": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "298190": [
+        "Are there any hidden elements in the image?"
+    ],
+    "429290": [
+        "Are there any reflections in the image?"
+    ],
+    "560367": [
+        "What is the main object in the image?"
+    ],
+    "560440": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "246327": [
+        "Does the image include a depth map?"
+    ],
+    "560566": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "298452": [
+        "Are there any annotations on the image?"
+    ],
+    "429582": [
+        "Is the image a composite of multiple images?"
+    ],
+    "167647": [
+        "What type of animals are in the image, if any?"
+    ],
+    "560880": [
+        "Does the image contain a horizon line?"
+    ],
+    "167725": [
+        "What is the main object in the image?"
+    ],
+    "429985": [
+        "Does the image have borders?"
+    ],
+    "36942": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "430160": [
+        "What language is used in the image's text, if any?"
+    ],
+    "561403": [
+        "Is the image staged or candid?"
+    ],
+    "561539": [
+        "What historical events does the image reference?"
+    ],
+    "430469": [
+        "What is the theme of the image?"
+    ],
+    "299468": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "299481": [
+        "What is the age of the people in the image?"
+    ],
+    "402783": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "168593": [
+        "Are there any unusual elements in the image?"
+    ],
+    "561901": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "37629": [
+        "What is the subject's pose in the image?"
+    ],
+    "561938": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "37875": [
+        "What emotions does the image evoke?"
+    ],
+    "562243": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "431197": [
+        "Is the image a selfie?"
+    ],
+    "334015": [
+        "What is the depth of field in the image?"
+    ],
+    "431352": [
+        "What historical events does the image reference?"
+    ],
+    "431398": [
+        "Does the image contain any controversial elements?"
+    ],
+    "38276": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "38540": [
+        "Does the image contain a horizon line?"
+    ],
+    "38630": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "431952": [
+        "Does the image tell a story?"
+    ],
+    "563067": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "38892": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "170127": [
+        "Is the image a panorama?"
+    ],
+    "563381": [
+        "Does the image depict any seasonal elements?"
+    ],
+    "170232": [
+        "What is the style of the image?"
+    ],
+    "432421": [
+        "Does the image have an associated hashtag?"
+    ],
+    "301376": [
+        "What is the setting of the image?"
+    ],
+    "301563": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "432647": [
+        "Is the image a panorama?"
+    ],
+    "446497": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "170605": [
+        "What is the age of the people in the image?"
+    ],
+    "301817": [
+        "Is the image part of a series or collection?"
+    ],
+    "432898": [
+        "What is the location where the image was taken?"
+    ],
+    "399830": [
+        "What size is the image file?"
+    ],
+    "301910": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "301950": [
+        "Does the image have alt text?"
+    ],
+    "564109": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "302038": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "433204": [
+        "Is the image part of a series or collection?"
+    ],
+    "149731": [
+        "Are there any filters applied to the image?"
+    ],
+    "302318": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "421757": [
+        "What language is used in the image's text, if any?"
+    ],
+    "433483": [
+        "Is the image a composite of multiple images?"
+    ],
+    "433505": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "302531": [
+        "Is the image part of a series or collection?"
+    ],
+    "171524": [
+        "What is the setting of the image?"
+    ],
+    "171622": [
+        "What language is used in the image's text, if any?"
+    ],
+    "433845": [
+        "Does the image have an associated hashtag?"
+    ],
+    "433883": [
+        "Does the image have cultural significance?"
+    ],
+    "434098": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "116046": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "434263": [
+        "What is the texture of the main object in the image?"
+    ],
+    "303219": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "434494": [
+        "Is the image blurred or sharp?"
+    ],
+    "434511": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "303603": [
+        "Is there any motion blur in the image?"
+    ],
+    "434735": [
+        "Does the image have a frame?"
+    ],
+    "565853": [
+        "Does the image depict any professional activities?"
+    ],
+    "303718": [
+        "Is there a title for the image?"
+    ],
+    "565941": [
+        "Is the image a meme?"
+    ],
+    "434873": [
+        "Does the image tell a story?"
+    ],
+    "41773": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "303942": [
+        "Does the image have a frame?"
+    ],
+    "435034": [
+        "Are there any filters applied to the image?"
+    ],
+    "304012": [
+        "What is the point of view in the image?"
+    ],
+    "304076": [
+        "Does the image contain any symbols?"
+    ],
+    "566276": [
+        "Is the image in black and white or color?"
+    ],
+    "435270": [
+        "Is the image a composite of multiple images?"
+    ],
+    "566414": [
+        "Does the image include a depth map?"
+    ],
+    "173208": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "304341": [
+        "What type of animals are in the image, if any?"
+    ],
+    "304342": [
+        "Does the image include a depth map?"
+    ],
+    "304379": [
+        "Is the image a meme?"
+    ],
+    "566550": [
+        "What is the mood of the image?"
+    ],
+    "42471": [
+        "What are the metadata of the image?"
+    ],
+    "304741": [
+        "Is the image in black and white or color?"
+    ],
+    "42667": [
+        "What is the source of light in the image?"
+    ],
+    "173832": [
+        "What direction is the light coming from in the image?"
+    ],
+    "567118": [
+        "Is the image a composite of multiple images?"
+    ],
+    "334826": [
+        "Are there any filters applied to the image?"
+    ],
+    "42968": [
+        "Are there any unusual elements in the image?"
+    ],
+    "567340": [
+        "Does the image have borders?"
+    ],
+    "305319": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "43218": [
+        "What is the depth of field in the image?"
+    ],
+    "305480": [
+        "Does the image have borders?"
+    ],
+    "436653": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "138316": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "334941": [
+        "What is the dominant material in the image?"
+    ],
+    "174671": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "43670": [
+        "Is the image a meme?"
+    ],
+    "305871": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "225751": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "437110": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "43997": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "44081": [
+        "What is the focus of the image?"
+    ],
+    "306229": [
+        "What are the metadata of the image?"
+    ],
+    "437374": [
+        "Are there any unusual elements in the image?"
+    ],
+    "306303": [
+        "Is the image historical or contemporary?"
+    ],
+    "51054": [
+        "What is the caption of the image?"
+    ],
+    "175310": [
+        "Does the image contain any symbols?"
+    ],
+    "437494": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "306506": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "568717": [
+        "What is the theme of the image?"
+    ],
+    "437738": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "175642": [
+        "Are there any annotations on the image?"
+    ],
+    "44612": [
+        "What artistic techniques are used in the image?"
+    ],
+    "44802": [
+        "What direction is the light coming from in the image?"
+    ],
+    "44910": [
+        "What is the style of the image?"
+    ],
+    "307073": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "307166": [
+        "What language is used in the image's text, if any?"
+    ],
+    "569314": [
+        "What language is used in the image's text, if any?"
+    ],
+    "569432": [
+        "What is the setting of the image?"
+    ],
+    "176271": [
+        "Does the image depict any professional activities?"
+    ],
+    "307523": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "45392": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "569850": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "45564": [
+        "What is the setting of the image?"
+    ],
+    "438788": [
+        "Is the image a composite of multiple images?"
+    ],
+    "569900": [
+        "What is the location where the image was taken?"
+    ],
+    "45746": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "422700": [
+        "What is the point of view in the image?"
+    ],
+    "570465": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "308362": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "570521": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "439472": [
+        "What are the image's copyright information?"
+    ],
+    "46269": [
+        "Does the image tell a story?"
+    ],
+    "177452": [
+        "What is the setting of the image?"
+    ],
+    "422833": [
+        "Is the image part of a series or collection?"
+    ],
+    "308849": [
+        "Is the image a close-up or long shot?"
+    ],
+    "177802": [
+        "Is the image in black and white or color?"
+    ],
+    "308907": [
+        "What is the texture of the main object in the image?"
+    ],
+    "440106": [
+        "Does the image look vintage or modern?"
+    ],
+    "178064": [
+        "What historical events does the image reference?"
+    ],
+    "178156": [
+        "Does the image contain a horizon line?"
+    ],
+    "440352": [
+        "Does the image contain any symbols?"
+    ],
+    "309302": [
+        "Is the image part of an advertisement?"
+    ],
+    "440434": [
+        "What is the setting of the image?"
+    ],
+    "440475": [
+        "Is the image blurred or sharp?"
+    ],
+    "309434": [
+        "What is the source of light in the image?"
+    ],
+    "571584": [
+        "What size is the image file?"
+    ],
+    "571585": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "178370": [
+        "What is the genre of the image?"
+    ],
+    "47585": [
+        "What is the aspect ratio of the image?"
+    ],
+    "440840": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "488573": [
+        "Is the image in black and white or color?"
+    ],
+    "310278": [
+        "What historical events does the image reference?"
+    ],
+    "179251": [
+        "Are there any annotations on the image?"
+    ],
+    "179273": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "179317": [
+        "Does the image involve any wildlife?"
+    ],
+    "441496": [
+        "Does the image depict any seasonal elements?"
+    ],
+    "441511": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "572592": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "310572": [
+        "What is the depth of field in the image?"
+    ],
+    "310669": [
+        "What is the focus of the image?"
+    ],
+    "161010": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "572900": [
+        "Is the image a close-up or long shot?"
+    ],
+    "441840": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "179699": [
+        "Is the image staged or candid?"
+    ],
+    "573149": [
+        "Is the image staged or candid?"
+    ],
+    "311068": [
+        "What is the source of light in the image?"
+    ],
+    "49005": [
+        "Does the image depict night or day?"
+    ],
+    "573320": [
+        "What are the metadata of the image?"
+    ],
+    "95569": [
+        "Is there any motion blur in the image?"
+    ],
+    "311303": [
+        "What language is used in the image's text, if any?"
+    ],
+    "442419": [
+        "Does the image contain any food items not included in the main meal?"
+    ],
+    "573536": [
+        "What is the point of view in the image?"
+    ],
+    "442523": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "180510": [
+        "Does the image involve any wildlife?"
+    ],
+    "573753": [
+        "What are the metadata of the image?"
+    ],
+    "573796": [
+        "What is the point of view in the image?"
+    ],
+    "573993": [
+        "What is the main object in the image?"
+    ],
+    "49731": [
+        "What is the location where the image was taken?"
+    ],
+    "49984": [
+        "Is the image a composite of multiple images?"
+    ],
+    "312237": [
+        "Are there any reflections in the image?"
+    ],
+    "50100": [
+        "What social issues does the image address?"
+    ],
+    "50124": [
+        "Does the image have alt text?"
+    ],
+    "443363": [
+        "What is the source of light in the image?"
+    ],
+    "443597": [
+        "Does the image tell a story?"
+    ],
+    "312552": [
+        "Does the image have a frame?"
+    ],
+    "181499": [
+        "Does the image depict any professional activities?"
+    ],
+    "181574": [
+        "Does the image contain any controversial elements?"
+    ],
+    "312692": [
+        "Are there any filters applied to the image?"
+    ],
+    "312720": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "50778": [
+        "Does the image have an associated hashtag?"
+    ],
+    "50828": [
+        "Is there any motion blur in the image?"
+    ],
+    "50829": [
+        "What is the genre of the image?"
+    ],
+    "444324": [
+        "What type of animals are in the image, if any?"
+    ],
+    "182240": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "575473": [
+        "Is there a title for the image?"
+    ],
+    "313588": [
+        "Is the image part of an advertisement?"
+    ],
+    "8583": [
+        "What is the main color palette of the image?"
+    ],
+    "74132": [
+        "What is the caption of the image?"
+    ],
+    "313770": [
+        "Does the image contain any symbols?"
+    ],
+    "575916": [
+        "What is the weather like in the image?"
+    ],
+    "182775": [
+        "What is the texture of the main object in the image?"
+    ],
+    "182820": [
+        "Is the image historical or contemporary?"
+    ],
+    "576084": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "314112": [
+        "Is the image in black and white or color?"
+    ],
+    "314125": [
+        "Does the image have an associated hashtag?"
+    ],
+    "183114": [
+        "Does the image contain any controversial elements?"
+    ],
+    "314188": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "52066": [
+        "What is the subject's pose in the image?"
+    ],
+    "445295": [
+        "Are there any annotations on the image?"
+    ],
+    "183217": [
+        "What social issues does the image address?"
+    ],
+    "52161": [
+        "What type of animals are in the image, if any?"
+    ],
+    "314313": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "314356": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "74280": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "576774": [
+        "Does the image have a frame?"
+    ],
+    "183715": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "577030": [
+        "What is the texture of the main object in the image?"
+    ],
+    "577161": [
+        "What artistic techniques are used in the image?"
+    ],
+    "577310": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "315187": [
+        "Are there any hidden elements in the image?"
+    ],
+    "315209": [
+        "What is the age of the people in the image?"
+    ],
+    "184172": [
+        "Does the image have an associated hashtag?"
+    ],
+    "315281": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "446455": [
+        "Is there a title for the image?"
+    ],
+    "314709": [
+        "Does the image contain any celebrities?"
+    ],
+    "53404": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "315601": [
+        "What is the setting of the image?"
+    ],
+    "446743": [
+        "What cultural references can be found in the image?"
+    ],
+    "577880": [
+        "What is the age of the people in the image?"
+    ],
+    "577893": [
+        "What is the dominant material in the image?"
+    ],
+    "577932": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "53697": [
+        "What social issues does the image address?"
+    ],
+    "183716": [
+        "Is the image staged or candid?"
+    ],
+    "315905": [
+        "What is the genre of the image?"
+    ],
+    "205577": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "184978": [
+        "What are the image's copyright information?"
+    ],
+    "53952": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "53956": [
+        "What historical events does the image reference?"
+    ],
+    "447233": [
+        "Is there a signature in the image?"
+    ],
+    "578492": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "578498": [
+        "What size is the image file?"
+    ],
+    "185292": [
+        "Is there any motion blur in the image?"
+    ],
+    "578878": [
+        "Is there a signature in the image?"
+    ],
+    "54627": [
+        "Does the image have borders?"
+    ],
+    "185901": [
+        "What social issues does the image address?"
+    ],
+    "140263": [
+        "Does the image have an associated hashtag?"
+    ],
+    "317325": [
+        "What is the main object in the image?"
+    ],
+    "448535": [
+        "Does the image include a depth map?"
+    ],
+    "511669": [
+        "What type of animals are in the image, if any?"
+    ],
+    "533596": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "187001": [
+        "What artistic techniques are used in the image?"
+    ],
+    "318174": [
+        "What are the dimensions of the image?"
+    ],
+    "318219": [
+        "What is the main color palette of the image?"
+    ],
+    "318284": [
+        "Does the image have alt text?"
+    ],
+    "318386": [
+        "Does the image include a depth map?"
+    ],
+    "449522": [
+        "Is the image staged or candid?"
+    ],
+    "56373": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "449638": [
+        "What is the weather like in the image?"
+    ],
+    "449675": [
+        "Does the image involve any wildlife?"
+    ],
+    "187543": [
+        "Does the image have alt text?"
+    ],
+    "449872": [
+        "Does the image have cultural significance?"
+    ],
+    "187989": [
+        "Is the image a composite of multiple images?"
+    ],
+    "188053": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "57086": [
+        "What emotions does the image evoke?"
+    ],
+    "581415": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "188434": [
+        "Does the image contain any celebrities?"
+    ],
+    "53289": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "188689": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "57645": [
+        "Is the image historical or contemporary?"
+    ],
+    "188818": [
+        "What is the subject's pose in the image?"
+    ],
+    "57814": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "293625": [
+        "What is the theme of the image?"
+    ],
+    "140713": [
+        "Does the image depict night or day?"
+    ],
+    "451373": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "58194": [
+        "Is the image part of an advertisement?"
+    ],
+    "189305": [
+        "Is the image part of a series or collection?"
+    ],
+    "189368": [
+        "Is the image a composite of multiple images?"
+    ],
+    "320641": [
+        "What emotions does the image evoke?"
+    ],
+    "320715": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "468525": [
+        "Is the image part of an advertisement?"
+    ],
+    "320872": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "189842": [
+        "Does the image depict any seasonal elements?"
+    ],
+    "189845": [
+        "Is the image part of an advertisement?"
+    ],
+    "320951": [
+        "Is the image historical or contemporary?"
+    ],
+    "58886": [
+        "What type of animals are in the image, if any?"
+    ],
+    "452113": [
+        "What is the depth of field in the image?"
+    ],
+    "321062": [
+        "What is the texture of the main object in the image?"
+    ],
+    "452137": [
+        "Are there any buildings that aren't skyscrapers in the image?"
+    ],
+    "452201": [
+        "What time of day does the image depict?"
+    ],
+    "452312": [
+        "What is the caption of the image?"
+    ],
+    "190292": [
+        "Is the image blurred or sharp?"
+    ],
+    "452558": [
+        "Is there any use of symmetry in the image?"
+    ],
+    "452721": [
+        "Are there any annotations on the image?"
+    ],
+    "321790": [
+        "Is the image a panorama?"
+    ],
+    "190760": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "321935": [
+        "What social issues does the image address?"
+    ],
+    "453040": [
+        "Is the image historical or contemporary?"
+    ],
+    "60010": [
+        "Is the image part of an advertisement?"
+    ],
+    "191138": [
+        "What direction is the light coming from in the image?"
+    ],
+    "322261": [
+        "What size is the image file?"
+    ],
+    "60246": [
+        "What language is used in the image's text, if any?"
+    ],
+    "490639": [
+        "What emotions does the image evoke?"
+    ],
+    "453509": [
+        "What is the focus of the image?"
+    ],
+    "191425": [
+        "Does the image have a frame?"
+    ],
+    "322654": [
+        "What are the dimensions of the image?"
+    ],
+    "206705": [
+        "Does the image have a frame?"
+    ],
+    "60596": [
+        "Does the image have cultural significance?"
+    ],
+    "60610": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "191705": [
+        "What are the dimensions of the image?"
+    ],
+    "453870": [
+        "Are there any filters applied to the image?"
+    ],
+    "570407": [
+        "Is the image historical or contemporary?"
+    ],
+    "191874": [
+        "Is the image a long exposure shot?"
+    ],
+    "31980": [
+        "What is the setting of the image?"
+    ],
+    "184902": [
+        "What is the source of light in the image?"
+    ],
+    "322987": [
+        "Is the image in black and white or color?"
+    ],
+    "191949": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "323100": [
+        "Does the image contain any food items not included in the main meal?"
+    ],
+    "192091": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "32038": [
+        "Does the image contain a horizon line?"
+    ],
+    "454382": [
+        "What is the location where the image was taken?"
+    ],
+    "454404": [
+        "What direction is the light coming from in the image?"
+    ],
+    "61418": [
+        "Are there any filters applied to the image?"
+    ],
+    "323598": [
+        "Is the image in a raw or compressed format?"
+    ],
+    "75786": [
+        "What is the dominant color in the image?"
+    ],
+    "323668": [
+        "What is the aspect ratio of the image?"
+    ],
+    "61564": [
+        "What is the point of view in the image?"
+    ],
+    "28239": [
+        "Are there any filters applied to the image?"
+    ],
+    "192714": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "192730": [
+        "What is the mood of the image?"
+    ],
+    "323827": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "359843": [
+        "Does the image contain any celebrities?"
+    ],
+    "192992": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "324158": [
+        "Does the image contain any optical illusions?"
+    ],
+    "324390": [
+        "Are there any hidden elements in the image?"
+    ],
+    "455610": [
+        "Does the image have borders?"
+    ],
+    "403619": [
+        "Is the image blurred or sharp?"
+    ],
+    "62491": [
+        "Is the image a close-up or long shot?"
+    ],
+    "62549": [
+        "Does the image depict night or day?"
+    ],
+    "62685": [
+        "Is there a title for the image?"
+    ],
+    "455943": [
+        "Is the image a close-up or long shot?"
+    ],
+    "455956": [
+        "Is the image a long exposure shot?"
+    ],
+    "324891": [
+        "What time of day does the image depict?"
+    ],
+    "325043": [
+        "Is the image blurred or sharp?"
+    ],
+    "325720": [
+        "Does the image include a depth map?"
+    ],
+    "10615": [
+        "What social issues does the image address?"
+    ],
+    "325991": [
+        "Is the image part of an advertisement?"
+    ],
+    "390569": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "63939": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "195098": [
+        "Is there any motion blur in the image?"
+    ],
+    "457249": [
+        "Are there any buildings that aren't skyscrapers in the image?"
+    ],
+    "64059": [
+        "What size is the image file?"
+    ],
+    "326308": [
+        "What emotions does the image evoke?"
+    ],
+    "195267": [
+        "Are there any hidden elements in the image?"
+    ],
+    "195269": [
+        "Is the image a meme?"
+    ],
+    "403919": [
+        "Does the image have a frame?"
+    ],
+    "64264": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "571834": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "326627": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "80713": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "195862": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "195897": [
+        "What social issues does the image address?"
+    ],
+    "326970": [
+        "Are there any filters applied to the image?"
+    ],
+    "458510": [
+        "Does the image have an associated hashtag?"
+    ],
+    "491481": [
+        "Does the image depict any professional activities?"
+    ],
+    "65530": [
+        "Are there any buildings that aren't skyscrapers in the image?"
+    ],
+    "196660": [
+        "What is the location where the image was taken?"
+    ],
+    "196681": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "458932": [
+        "Does the image have alt text?"
+    ],
+    "458953": [
+        "Does the image contain a horizon line?"
+    ],
+    "196853": [
+        "Is there any motion blur in the image?"
+    ],
+    "65883": [
+        "What is the setting of the image?"
+    ],
+    "197090": [
+        "Are there any unusual elements in the image?"
+    ],
+    "535322": [
+        "What is the aspect ratio of the image?"
+    ],
+    "328462": [
+        "Does the image depict night or day?"
+    ],
+    "66412": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "328596": [
+        "What is the texture of the main object in the image?"
+    ],
+    "66519": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "295076": [
+        "What type of animals are in the image, if any?"
+    ],
+    "67207": [
+        "Is the image a selfie?"
+    ],
+    "460623": [
+        "Does the image contain any food items not included in the main meal?"
+    ],
+    "460632": [
+        "What is the focus of the image?"
+    ],
+    "460757": [
+        "What is the focus of the image?"
+    ],
+    "198635": [
+        "What size is the image file?"
+    ],
+    "198658": [
+        "What is the weather like in the image?"
+    ],
+    "460927": [
+        "Are there any unusual elements in the image?"
+    ],
+    "329900": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "67788": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "67886": [
+        "Does the image tell a story?"
+    ],
+    "491921": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "68005": [
+        "What is the depth of field in the image?"
+    ],
+    "461255": [
+        "Are there any filters applied to the image?"
+    ],
+    "382728": [
+        "Does the image tell a story?"
+    ],
+    "461378": [
+        "What is the caption of the image?"
+    ],
+    "68166": [
+        "What is the source of light in the image?"
+    ],
+    "199389": [
+        "Is the image blurred or sharp?"
+    ],
+    "68435": [
+        "Is the image in a raw or compressed format?"
+    ],
+    "461655": [
+        "What is the weather like in the image?"
+    ],
+    "461973": [
+        "Does the image depict any professional activities?"
+    ],
+    "462105": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "331372": [
+        "What is the dominant color in the image?"
+    ],
+    "462466": [
+        "What is the subject's pose in the image?"
+    ],
+    "200381": [
+        "What is the main color palette of the image?"
+    ],
+    "462576": [
+        "Does the image have an associated hashtag?"
+    ],
+    "331600": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "331692": [
+        "What is the texture of the main object in the image?"
+    ],
+    "200717": [
+        "What type of animals are in the image, if any?"
+    ],
+    "448555": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "557812": [
+        "What is the style of the image?"
+    ],
+    "463406": [
+        "What is the dominant material in the image?"
+    ],
+    "463588": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "463699": [
+        "What is the aspect ratio of the image?"
+    ],
+    "201561": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "201670": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "332869": [
+        "Is the image a meme?"
+    ],
+    "332916": [
+        "What direction is the light coming from in the image?"
+    ],
+    "77351": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "201993": [
+        "What is the point of view in the image?"
+    ],
+    "405047": [
+        "Is the image a selfie?"
+    ],
+    "202118": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "464339": [
+        "What are the image's copyright information?"
+    ],
+    "99242": [
+        "What is the mood of the image?"
+    ],
+    "71171": [
+        "Is the image a long exposure shot?"
+    ],
+    "447553": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "71284": [
+        "Is the image part of an advertisement?"
+    ],
+    "202438": [
+        "What are the dimensions of the image?"
+    ],
+    "202470": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "464682": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "333630": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "32932": [
+        "What is the main object in the image?"
+    ],
+    "202886": [
+        "Is there a title for the image?"
+    ],
+    "333998": [
+        "What is the theme of the image?"
+    ],
+    "334062": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "203201": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "334276": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "366225": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "465489": [
+        "What artistic techniques are used in the image?"
+    ],
+    "72281": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "203372": [
+        "Does the image have cultural significance?"
+    ],
+    "72582": [
+        "What is the genre of the image?"
+    ],
+    "334809": [
+        "What direction is the light coming from in the image?"
+    ],
+    "72829": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "335521": [
+        "Is there any use of symmetry in the image?"
+    ],
+    "466787": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "335785": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "274418": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "335887": [
+        "What is the dominant color in the image?"
+    ],
+    "467022": [
+        "Does the image have cultural significance?"
+    ],
+    "205002": [
+        "Is the image a close-up or long shot?"
+    ],
+    "338531": [
+        "Does the image have an associated hashtag?"
+    ],
+    "205101": [
+        "Are there any reflections in the image?"
+    ],
+    "205474": [
+        "Does the image include a depth map?"
+    ],
+    "207611": [
+        "Is there a signature in the image?"
+    ],
+    "336587": [
+        "Does the image have an associated hashtag?"
+    ],
+    "205531": [
+        "What social issues does the image address?"
+    ],
+    "74460": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "405648": [
+        "What is the aspect ratio of the image?"
+    ],
+    "74646": [
+        "What is the genre of the image?"
+    ],
+    "467966": [
+        "What is the setting of the image?"
+    ],
+    "505035": [
+        "Is the image blurred or sharp?"
+    ],
+    "468457": [
+        "Is the image a long exposure shot?"
+    ],
+    "75285": [
+        "Are there any filters applied to the image?"
+    ],
+    "75426": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "337619": [
+        "Is the image a close-up or long shot?"
+    ],
+    "468744": [
+        "Does the image contain any optical illusions?"
+    ],
+    "337690": [
+        "What are the dimensions of the image?"
+    ],
+    "75560": [
+        "Does the image depict night or day?"
+    ],
+    "337814": [
+        "Is the image a panorama?"
+    ],
+    "468917": [
+        "Does the image have borders?"
+    ],
+    "75753": [
+        "Is the image a long exposure shot?"
+    ],
+    "468997": [
+        "Does the image include a depth map?"
+    ],
+    "75888": [
+        "What is the dominant material in the image?"
+    ],
+    "338105": [
+        "What is the texture of the main object in the image?"
+    ],
+    "75990": [
+        "Does the image include a depth map?"
+    ],
+    "338384": [
+        "What is the age of the people in the image?"
+    ],
+    "76261": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "76351": [
+        "What artistic techniques are used in the image?"
+    ],
+    "76384": [
+        "Does the image contain any symbols?"
+    ],
+    "207458": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "187495": [
+        "Does the image have alt text?"
+    ],
+    "207797": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "338949": [
+        "Is the image part of a series or collection?"
+    ],
+    "470350": [
+        "What are the dimensions of the image?"
+    ],
+    "558992": [
+        "What is the age of the people in the image?"
+    ],
+    "208408": [
+        "What time of day does the image depict?"
+    ],
+    "208524": [
+        "Does the image have alt text?"
+    ],
+    "339705": [
+        "What is the subject's pose in the image?"
+    ],
+    "208748": [
+        "Is there any motion blur in the image?"
+    ],
+    "470909": [
+        "What is the mood of the image?"
+    ],
+    "406182": [
+        "What is the weather like in the image?"
+    ],
+    "208946": [
+        "What are the dimensions of the image?"
+    ],
+    "515422": [
+        "Is there a signature in the image?"
+    ],
+    "209007": [
+        "Are there any buildings that aren't skyscrapers in the image?"
+    ],
+    "78060": [
+        "Are there any reflections in the image?"
+    ],
+    "209286": [
+        "Does the image look vintage or modern?"
+    ],
+    "78260": [
+        "Does the image have a frame?"
+    ],
+    "162114": [
+        "Is the image in black and white or color?"
+    ],
+    "209530": [
+        "What is the subject's pose in the image?"
+    ],
+    "471858": [
+        "Does the image have an associated hashtag?"
+    ],
+    "209757": [
+        "Does the image tell a story?"
+    ],
+    "231568": [
+        "What is the point of view in the image?"
+    ],
+    "472164": [
+        "What is the depth of field in the image?"
+    ],
+    "210030": [
+        "Is the image a selfie?"
+    ],
+    "472295": [
+        "Is there any motion blur in the image?"
+    ],
+    "210228": [
+        "What historical events does the image reference?"
+    ],
+    "472472": [
+        "What cultural references can be found in the image?"
+    ],
+    "341469": [
+        "Is the image a meme?"
+    ],
+    "472598": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "472678": [
+        "What size is the image file?"
+    ],
+    "79686": [
+        "What historical events does the image reference?"
+    ],
+    "56983": [
+        "Is the image a composite of multiple images?"
+    ],
+    "473015": [
+        "Is the image a panorama?"
+    ],
+    "79837": [
+        "What is the texture of the main object in the image?"
+    ],
+    "210920": [
+        "Is there a title for the image?"
+    ],
+    "79878": [
+        "Does the image have cultural significance?"
+    ],
+    "211107": [
+        "Does the image tell a story?"
+    ],
+    "342273": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "473632": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "342819": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "450355": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "384823": [
+        "Does the image contain any symbols?"
+    ],
+    "474028": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "474170": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "474186": [
+        "What size is the image file?"
+    ],
+    "474215": [
+        "What direction is the light coming from in the image?"
+    ],
+    "212116": [
+        "What time of day does the image depict?"
+    ],
+    "343193": [
+        "What is the subject's pose in the image?"
+    ],
+    "212261": [
+        "Does the image contain any optical illusions?"
+    ],
+    "343466": [
+        "Does the image contain any symbols?"
+    ],
+    "474609": [
+        "Does the image depict night or day?"
+    ],
+    "474711": [
+        "What language is used in the image's text, if any?"
+    ],
+    "474862": [
+        "Is there any use of symmetry in the image?"
+    ],
+    "474906": [
+        "Does the image include a depth map?"
+    ],
+    "212766": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "344029": [
+        "What is the dominant color in the image?"
+    ],
+    "344094": [
+        "What time of day does the image depict?"
+    ],
+    "344271": [
+        "What cultural references can be found in the image?"
+    ],
+    "82157": [
+        "What is the dominant material in the image?"
+    ],
+    "79229": [
+        "Does the image involve any wildlife?"
+    ],
+    "344397": [
+        "Are there any repeated elements in the image?"
+    ],
+    "82367": [
+        "Does the image contain any symbols?"
+    ],
+    "475586": [
+        "Does the image look vintage or modern?"
+    ],
+    "213465": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "213599": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "213649": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "213978": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "476215": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "476233": [
+        "What is the theme of the image?"
+    ],
+    "83036": [
+        "What direction is the light coming from in the image?"
+    ],
+    "214204": [
+        "Does the image contain a horizon line?"
+    ],
+    "214224": [
+        "Does the image include a depth map?"
+    ],
+    "476398": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "476444": [
+        "Are there any hidden elements in the image?"
+    ],
+    "319743": [
+        "What historical events does the image reference?"
+    ],
+    "214527": [
+        "Does the image look vintage or modern?"
+    ],
+    "345869": [
+        "What is the texture of the main object in the image?"
+    ],
+    "345881": [
+        "Does the image contain a horizon line?"
+    ],
+    "477112": [
+        "What is the main object in the image?"
+    ],
+    "84533": [
+        "What social issues does the image address?"
+    ],
+    "477791": [
+        "What are the dimensions of the image?"
+    ],
+    "477805": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "494759": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "478250": [
+        "What is the caption of the image?"
+    ],
+    "478374": [
+        "Does the image involve any wildlife?"
+    ],
+    "347506": [
+        "Is there any motion blur in the image?"
+    ],
+    "478621": [
+        "Is there any use of symmetry in the image?"
+    ],
+    "347558": [
+        "Is the image staged or candid?"
+    ],
+    "478736": [
+        "Is the image a long exposure shot?"
+    ],
+    "85527": [
+        "Does the image contain any optical illusions?"
+    ],
+    "478812": [
+        "Are there any hidden elements in the image?"
+    ],
+    "347753": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "216790": [
+        "Is there any use of symmetry in the image?"
+    ],
+    "217156": [
+        "Are there any unusual elements in the image?"
+    ],
+    "479440": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "217301": [
+        "Is the image in black and white or color?"
+    ],
+    "479448": [
+        "What are the dimensions of the image?"
+    ],
+    "217329": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "217393": [
+        "What is the caption of the image?"
+    ],
+    "86357": [
+        "What is the main color palette of the image?"
+    ],
+    "479586": [
+        "What is the style of the image?"
+    ],
+    "479617": [
+        "Are there any hidden elements in the image?"
+    ],
+    "276552": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "217546": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "480133": [
+        "What is the aspect ratio of the image?"
+    ],
+    "86956": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "87052": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "218189": [
+        "Does the image have an associated hashtag?"
+    ],
+    "385896": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "480470": [
+        "What is the age of the people in the image?"
+    ],
+    "349616": [
+        "What time of day does the image depict?"
+    ],
+    "349737": [
+        "Is the image part of an advertisement?"
+    ],
+    "349754": [
+        "What is the focus of the image?"
+    ],
+    "350023": [
+        "What is the dominant material in the image?"
+    ],
+    "87920": [
+        "What is the location where the image was taken?"
+    ],
+    "219216": [
+        "Does the image have a frame?"
+    ],
+    "219283": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "350386": [
+        "What artistic techniques are used in the image?"
+    ],
+    "88562": [
+        "Is the image blurred or sharp?"
+    ],
+    "219688": [
+        "Is there a signature in the image?"
+    ],
+    "350855": [
+        "Is the image staged or candid?"
+    ],
+    "219984": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "351345": [
+        "What is the dominant color in the image?"
+    ],
+    "351489": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "89430": [
+        "Does the image tell a story?"
+    ],
+    "351590": [
+        "What is the aspect ratio of the image?"
+    ],
+    "351597": [
+        "What is the location where the image was taken?"
+    ],
+    "220531": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "89557": [
+        "What is the genre of the image?"
+    ],
+    "220638": [
+        "What language is used in the image's text, if any?"
+    ],
+    "89618": [
+        "Are there any repeated elements in the image?"
+    ],
+    "89781": [
+        "What time of day does the image depict?"
+    ],
+    "89880": [
+        "Does the image depict any seasonal elements?"
+    ],
+    "89894": [
+        "What is the main color palette of the image?"
+    ],
+    "451915": [
+        "Does the image depict night or day?"
+    ],
+    "90373": [
+        "Does the image have borders?"
+    ],
+    "221713": [
+        "What is the point of view in the image?"
+    ],
+    "221753": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "352937": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "352949": [
+        "Does the image have alt text?"
+    ],
+    "90839": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "15157": [
+        "What historical events does the image reference?"
+    ],
+    "353347": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "91236": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "222317": [
+        "Are there any annotations on the image?"
+    ],
+    "222370": [
+        "Is the image part of a series or collection?"
+    ],
+    "353577": [
+        "Is there a signature in the image?"
+    ],
+    "91460": [
+        "What is the subject's pose in the image?"
+    ],
+    "222635": [
+        "What is the dominant material in the image?"
+    ],
+    "91612": [
+        "Is there any motion blur in the image?"
+    ],
+    "91650": [
+        "Does the image look vintage or modern?"
+    ],
+    "91667": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "353817": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "484938": [
+        "Does the image involve any wildlife?"
+    ],
+    "430788": [
+        "What is the theme of the image?"
+    ],
+    "223241": [
+        "Does the image involve any wildlife?"
+    ],
+    "223243": [
+        "What is the texture of the main object in the image?"
+    ],
+    "485844": [
+        "Is there a title for the image?"
+    ],
+    "223757": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "485909": [
+        "What is the style of the image?"
+    ],
+    "223874": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "486175": [
+        "Does the image have borders?"
+    ],
+    "355272": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "486576": [
+        "What is the main color palette of the image?"
+    ],
+    "355569": [
+        "What is the dominant color in the image?"
+    ],
+    "355575": [
+        "What is the point of view in the image?"
+    ],
+    "224557": [
+        "Does the image depict any professional activities?"
+    ],
+    "486774": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "190372": [
+        "Are there any unusual elements in the image?"
+    ],
+    "93852": [
+        "What emotions does the image evoke?"
+    ],
+    "225177": [
+        "Does the image have a frame?"
+    ],
+    "356337": [
+        "What is the mood of the image?"
+    ],
+    "94194": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "487428": [
+        "Does the image have cultural significance?"
+    ],
+    "487450": [
+        "Does the image contain any controversial elements?"
+    ],
+    "356421": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "225378": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "356531": [
+        "Does the image contain any food items not included in the main meal?"
+    ],
+    "94577": [
+        "Does the image tell a story?"
+    ],
+    "313034": [
+        "What is the dominant material in the image?"
+    ],
+    "225786": [
+        "What size is the image file?"
+    ],
+    "356863": [
+        "What is the aspect ratio of the image?"
+    ],
+    "356877": [
+        "Does the image involve any wildlife?"
+    ],
+    "225946": [
+        "Is the image staged or candid?"
+    ],
+    "357060": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "488219": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "488240": [
+        "What is the subject's pose in the image?"
+    ],
+    "357194": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "387216": [
+        "What is the texture of the main object in the image?"
+    ],
+    "226154": [
+        "Is the image in black and white or color?"
+    ],
+    "488346": [
+        "Does the image have cultural significance?"
+    ],
+    "168781": [
+        "What are the image's copyright information?"
+    ],
+    "357578": [
+        "What emotions does the image evoke?"
+    ],
+    "226634": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "357758": [
+        "Is the image staged or candid?"
+    ],
+    "226701": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "488915": [
+        "What is the dominant material in the image?"
+    ],
+    "147025": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "489159": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "103375": [
+        "What language is used in the image's text, if any?"
+    ],
+    "358268": [
+        "Is the image a close-up or long shot?"
+    ],
+    "16025": [
+        "What is the focus of the image?"
+    ],
+    "358302": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "96226": [
+        "Are there any filters applied to the image?"
+    ],
+    "358427": [
+        "Are there any reflections in the image?"
+    ],
+    "227399": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "489611": [
+        "What is the source of light in the image?"
+    ],
+    "489616": [
+        "What is the caption of the image?"
+    ],
+    "96402": [
+        "What is the dominant color in the image?"
+    ],
+    "489764": [
+        "Are there any buildings that aren't skyscrapers in the image?"
+    ],
+    "358707": [
+        "What time of day does the image depict?"
+    ],
+    "358817": [
+        "What is the source of light in the image?"
+    ],
+    "358833": [
+        "Does the image have cultural significance?"
+    ],
+    "490022": [
+        "What is the caption of the image?"
+    ],
+    "227893": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "227901": [
+        "What time of day does the image depict?"
+    ],
+    "359020": [
+        "What social issues does the image address?"
+    ],
+    "490280": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "97131": [
+        "Is there any motion blur in the image?"
+    ],
+    "97230": [
+        "What artistic techniques are used in the image?"
+    ],
+    "147300": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "46889": [
+        "Is the image staged or candid?"
+    ],
+    "97434": [
+        "Does the image include a depth map?"
+    ],
+    "228541": [
+        "Does the image contain any optical illusions?"
+    ],
+    "359715": [
+        "What is the depth of field in the image?"
+    ],
+    "228683": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "490860": [
+        "What is the main object in the image?"
+    ],
+    "97679": [
+        "What are the dimensions of the image?"
+    ],
+    "228771": [
+        "Are there any reflections in the image?"
+    ],
+    "300323": [
+        "Is there any motion blur in the image?"
+    ],
+    "229111": [
+        "Is the image a meme?"
+    ],
+    "229216": [
+        "Is the image part of a series or collection?"
+    ],
+    "491366": [
+        "Is the image a composite of multiple images?"
+    ],
+    "229427": [
+        "Is the image a close-up or long shot?"
+    ],
+    "98514": [
+        "What is the setting of the image?"
+    ],
+    "491755": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "360698": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "360735": [
+        "Is the image a composite of multiple images?"
+    ],
+    "191203": [
+        "Is the image part of a series or collection?"
+    ],
+    "229747": [
+        "What is the subject's pose in the image?"
+    ],
+    "518889": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "229889": [
+        "Does the image involve any wildlife?"
+    ],
+    "229984": [
+        "What is the point of view in the image?"
+    ],
+    "99114": [
+        "Is the image in black and white or color?"
+    ],
+    "99186": [
+        "What time of day does the image depict?"
+    ],
+    "99481": [
+        "What historical events does the image reference?"
+    ],
+    "361730": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "230739": [
+        "Is there a title for the image?"
+    ],
+    "99810": [
+        "Are there any reflections in the image?"
+    ],
+    "230884": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "231097": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "100081": [
+        "Is the image a close-up or long shot?"
+    ],
+    "362289": [
+        "Are there any unusual elements in the image?"
+    ],
+    "362343": [
+        "What type of animals are in the image, if any?"
+    ],
+    "100215": [
+        "Is the image in black and white or color?"
+    ],
+    "100234": [
+        "What are the metadata of the image?"
+    ],
+    "231408": [
+        "Are there any annotations on the image?"
+    ],
+    "493610": [
+        "What is the point of view in the image?"
+    ],
+    "362563": [
+        "What emotions does the image evoke?"
+    ],
+    "362714": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "493846": [
+        "Is the image part of a series or collection?"
+    ],
+    "100853": [
+        "Are there any hidden elements in the image?"
+    ],
+    "231942": [
+        "Does the image contain any symbols?"
+    ],
+    "363126": [
+        "What artistic techniques are used in the image?"
+    ],
+    "232088": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "257136": [
+        "What is the location where the image was taken?"
+    ],
+    "101031": [
+        "What social issues does the image address?"
+    ],
+    "344521": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "101053": [
+        "What is the main color palette of the image?"
+    ],
+    "363241": [
+        "Is the image staged or candid?"
+    ],
+    "232614": [
+        "What time of day does the image depict?"
+    ],
+    "101647": [
+        "Are there any hidden elements in the image?"
+    ],
+    "232842": [
+        "Does the image depict any seasonal elements?"
+    ],
+    "495054": [
+        "Does the image have cultural significance?"
+    ],
+    "363991": [
+        "What historical events does the image reference?"
+    ],
+    "410221": [
+        "Does the image contain a horizon line?"
+    ],
+    "364274": [
+        "Does the image involve any wildlife?"
+    ],
+    "364665": [
+        "Is the image staged or candid?"
+    ],
+    "364725": [
+        "What is the texture of the main object in the image?"
+    ],
+    "102625": [
+        "What are the dimensions of the image?"
+    ],
+    "495894": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "388531": [
+        "Are there any filters applied to the image?"
+    ],
+    "365177": [
+        "What is the main color palette of the image?"
+    ],
+    "432273": [
+        "What is the focus of the image?"
+    ],
+    "103306": [
+        "Does the image have alt text?"
+    ],
+    "496525": [
+        "What is the theme of the image?"
+    ],
+    "103488": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "103490": [
+        "Does the image tell a story?"
+    ],
+    "365642": [
+        "What historical events does the image reference?"
+    ],
+    "497021": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "234914": [
+        "What historical events does the image reference?"
+    ],
+    "103851": [
+        "Is the image part of a series or collection?"
+    ],
+    "497158": [
+        "Are there any reflections in the image?"
+    ],
+    "104002": [
+        "Does the image have a frame?"
+    ],
+    "235093": [
+        "Are there any unusual elements in the image?"
+    ],
+    "279490": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "366295": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "235252": [
+        "What is the mood of the image?"
+    ],
+    "17365": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "497443": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "366440": [
+        "What is the weather like in the image?"
+    ],
+    "104345": [
+        "Does the image look vintage or modern?"
+    ],
+    "235522": [
+        "What are the metadata of the image?"
+    ],
+    "235597": [
+        "What is the theme of the image?"
+    ],
+    "366867": [
+        "Does the image have cultural significance?"
+    ],
+    "236023": [
+        "Is the image part of an advertisement?"
+    ],
+    "104982": [
+        "Is there any use of symmetry in the image?"
+    ],
+    "105052": [
+        "Is there any motion blur in the image?"
+    ],
+    "236162": [
+        "Does the image have an associated hashtag?"
+    ],
+    "498339": [
+        "Is there a title for the image?"
+    ],
+    "236308": [
+        "What historical events does the image reference?"
+    ],
+    "105291": [
+        "Does the image contain any controversial elements?"
+    ],
+    "236412": [
+        "Is the image historical or contemporary?"
+    ],
+    "236432": [
+        "Does the image contain any symbols?"
+    ],
+    "367528": [
+        "What is the dominant material in the image?"
+    ],
+    "239194": [
+        "What are the metadata of the image?"
+    ],
+    "367608": [
+        "What size is the image file?"
+    ],
+    "105668": [
+        "Does the image contain any celebrities?"
+    ],
+    "105683": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "105757": [
+        "Does the image include a depth map?"
+    ],
+    "105812": [
+        "What type of animals are in the image, if any?"
+    ],
+    "105951": [
+        "Is the image part of an advertisement?"
+    ],
+    "499302": [
+        "Is the image a long exposure shot?"
+    ],
+    "106120": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "368294": [
+        "What are the image's copyright information?"
+    ],
+    "148766": [
+        "Does the image have cultural significance?"
+    ],
+    "499388": [
+        "Are there any annotations on the image?"
+    ],
+    "106272": [
+        "Does the image involve any wildlife?"
+    ],
+    "237459": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "237476": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "106453": [
+        "What is the dominant color in the image?"
+    ],
+    "499705": [
+        "What is the depth of field in the image?"
+    ],
+    "237814": [
+        "What is the point of view in the image?"
+    ],
+    "106757": [
+        "What are the dimensions of the image?"
+    ],
+    "499989": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "208688": [
+        "Is there a signature in the image?"
+    ],
+    "369093": [
+        "What direction is the light coming from in the image?"
+    ],
+    "238029": [
+        "Is there any use of symmetry in the image?"
+    ],
+    "238074": [
+        "Is the image a meme?"
+    ],
+    "107020": [
+        "Is the image a composite of multiple images?"
+    ],
+    "107105": [
+        "What historical events does the image reference?"
+    ],
+    "238272": [
+        "What time of day does the image depict?"
+    ],
+    "238431": [
+        "What emotions does the image evoke?"
+    ],
+    "500902": [
+        "Is the image blurred or sharp?"
+    ],
+    "369840": [
+        "Is there a title for the image?"
+    ],
+    "107839": [
+        "Is the image a close-up or long shot?"
+    ],
+    "501116": [
+        "Does the image contain any symbols?"
+    ],
+    "239130": [
+        "What is the texture of the main object in the image?"
+    ],
+    "370233": [
+        "Does the image have alt text?"
+    ],
+    "108129": [
+        "What is the caption of the image?"
+    ],
+    "501491": [
+        "Is the image historical or contemporary?"
+    ],
+    "280242": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "239985": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "16730": [
+        "Is the image part of a series or collection?"
+    ],
+    "371364": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "502456": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "240379": [
+        "What size is the image file?"
+    ],
+    "109361": [
+        "Is there any motion blur in the image?"
+    ],
+    "240637": [
+        "What is the theme of the image?"
+    ],
+    "354254": [
+        "Is the image blurred or sharp?"
+    ],
+    "109673": [
+        "Is the image historical or contemporary?"
+    ],
+    "372070": [
+        "What is the point of view in the image?"
+    ],
+    "217522": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "346013": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "110052": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "503292": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "110081": [
+        "Does the image contain a horizon line?"
+    ],
+    "241291": [
+        "What are the image's copyright information?"
+    ],
+    "503518": [
+        "What is the dominant color in the image?"
+    ],
+    "138975": [
+        "Is the image a composite of multiple images?"
+    ],
+    "503663": [
+        "Are there any repeated elements in the image?"
+    ],
+    "503724": [
+        "Is the image staged or candid?"
+    ],
+    "372654": [
+        "Are there any repeated elements in the image?"
+    ],
+    "110601": [
+        "What cultural references can be found in the image?"
+    ],
+    "242095": [
+        "Is there a title for the image?"
+    ],
+    "504297": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "242363": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "302555": [
+        "Does the image contain any controversial elements?"
+    ],
+    "373713": [
+        "Is the image part of a series or collection?"
+    ],
+    "504891": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "86650": [
+        "Does the image contain any drawings or sketches?"
+    ],
+    "112065": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "112110": [
+        "Is there any motion blur in the image?"
+    ],
+    "374333": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "505455": [
+        "Does the image have borders?"
+    ],
+    "112298": [
+        "Is the image a long exposure shot?"
+    ],
+    "579859": [
+        "What is the location where the image was taken?"
+    ],
+    "505650": [
+        "What is the subject's pose in the image?"
+    ],
+    "477500": [
+        "Is the image in a raw or compressed format?"
+    ],
+    "243600": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "171678": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "505786": [
+        "Is the image a composite of multiple images?"
+    ],
+    "243694": [
+        "What is the source of light in the image?"
+    ],
+    "505953": [
+        "What direction is the light coming from in the image?"
+    ],
+    "112841": [
+        "Is the image blurred or sharp?"
+    ],
+    "244099": [
+        "Is it a photo, drawing, or painting?"
+    ],
+    "244111": [
+        "What is the main color palette of the image?"
+    ],
+    "375198": [
+        "What is the weather like in the image?"
+    ],
+    "244159": [
+        "What time of day does the image depict?"
+    ],
+    "506489": [
+        "What are the dimensions of the image?"
+    ],
+    "375440": [
+        "What emotions does the image evoke?"
+    ],
+    "506515": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "113333": [
+        "What is the location where the image was taken?"
+    ],
+    "18896": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "113413": [
+        "Does the image have alt text?"
+    ],
+    "244581": [
+        "What is the main color palette of the image?"
+    ],
+    "117725": [
+        "What is the style of the image?"
+    ],
+    "193704": [
+        "Does the image involve any wildlife?"
+    ],
+    "412184": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "507037": [
+        "What size is the image file?"
+    ],
+    "507154": [
+        "Are there any reflections in the image?"
+    ],
+    "245026": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "507301": [
+        "Are there any repeated elements in the image?"
+    ],
+    "507330": [
+        "What time of day does the image depict?"
+    ],
+    "376295": [
+        "What is the main object in the image?"
+    ],
+    "376307": [
+        "What is the theme of the image?"
+    ],
+    "114184": [
+        "Are there any repeated elements in the image?"
+    ],
+    "376442": [
+        "Is the image staged or candid?"
+    ],
+    "245460": [
+        "Does the image contain any food items not included in the main meal?"
+    ],
+    "507663": [
+        "What is the subject's pose in the image?"
+    ],
+    "114458": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "114586": [
+        "Are there any filters applied to the image?"
+    ],
+    "245664": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "565233": [
+        "Is the image a close-up or long shot?"
+    ],
+    "507893": [
+        "Are there any particles in the image like rain, snow, or dust?"
+    ],
+    "376937": [
+        "Does the image look vintage or modern?"
+    ],
+    "508101": [
+        "Is the image a panorama?"
+    ],
+    "508291": [
+        "Is the image a selfie?"
+    ],
+    "115146": [
+        "Is the image shot from a drone or high viewpoint?"
+    ],
+    "377385": [
+        "Does the image contain any controversial elements?"
+    ],
+    "565341": [
+        "Does the image have an associated hashtag?"
+    ],
+    "115521": [
+        "What cultural references can be found in the image?"
+    ],
+    "246616": [
+        "Is the image part of a series or collection?"
+    ],
+    "246717": [
+        "What is the aspect ratio of the image?"
+    ],
+    "246878": [
+        "What is the style of the image?"
+    ],
+    "115875": [
+        "Does the image contain any optical illusions?"
+    ],
+    "115885": [
+        "Does the image contain any food items not included in the main meal?"
+    ],
+    "115927": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "259640": [
+        "Are there any recognizable brands in the image?"
+    ],
+    "116068": [
+        "What is the genre of the image?"
+    ],
+    "247234": [
+        "Is the image blurred or sharp?"
+    ],
+    "281512": [
+        "What is the location where the image was taken?"
+    ],
+    "247378": [
+        "What is the style of the image?"
+    ],
+    "509531": [
+        "Does the image have alt text?"
+    ],
+    "378548": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "116405": [
+        "What is the depth of field in the image?"
+    ],
+    "509826": [
+        "Does the image contain any controversial elements?"
+    ],
+    "116667": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "116848": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "571279": [
+        "What is the main object in the image?"
+    ],
+    "116881": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "248112": [
+        "Is there a title for the image?"
+    ],
+    "510340": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "510395": [
+        "What is the setting of the image?"
+    ],
+    "379402": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "248353": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "510616": [
+        "Does the image involve any wildlife?"
+    ],
+    "117508": [
+        "What is the source of light in the image?"
+    ],
+    "510735": [
+        "What emotions does the image evoke?"
+    ],
+    "117543": [
+        "Does the image contain any fashion accessories?"
+    ],
+    "248847": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "248919": [
+        "Is the image staged or candid?"
+    ],
+    "380244": [
+        "Is the image a meme?"
+    ],
+    "511546": [
+        "What is the dominant color in the image?"
+    ],
+    "511674": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "380706": [
+        "What is the main object in the image?"
+    ],
+    "118564": [
+        "Is the image photoshopped or digitally altered?"
+    ],
+    "380754": [
+        "What is the subject's pose in the image?"
+    ],
+    "511852": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "511999": [
+        "Is there a title for the image?"
+    ],
+    "369323": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "169808": [
+        "Does the image depict any professional activities?"
+    ],
+    "381037": [
+        "Is the image historical or contemporary?"
+    ],
+    "260150": [
+        "Is there any use of symmetry in the image?"
+    ],
+    "512416": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "119308": [
+        "Does the image have alt text?"
+    ],
+    "119476": [
+        "Is the image blurred or sharp?"
+    ],
+    "250571": [
+        "What is the caption of the image?"
+    ],
+    "512760": [
+        "Is the image a panorama?"
+    ],
+    "250758": [
+        "What is the caption of the image?"
+    ],
+    "381842": [
+        "Does the image look vintage or modern?"
+    ],
+    "250870": [
+        "What is the texture of the main object in the image?"
+    ],
+    "382041": [
+        "Does the image look vintage or modern?"
+    ],
+    "119939": [
+        "Are there any buildings that aren't skyscrapers in the image?"
+    ],
+    "382122": [
+        "What is the point of view in the image?"
+    ],
+    "216628": [
+        "Is the image in a raw or compressed format?"
+    ],
+    "382307": [
+        "Does the image include a depth map?"
+    ],
+    "513417": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "566173": [
+        "What is the aspect ratio of the image?"
+    ],
+    "120248": [
+        "What is the style of the image?"
+    ],
+    "382671": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "120632": [
+        "What size is the image file?"
+    ],
+    "431742": [
+        "Are there any hidden elements in the image?"
+    ],
+    "120747": [
+        "What is the focus of the image?"
+    ],
+    "251888": [
+        "What size is the image file?"
+    ],
+    "251892": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "566278": [
+        "Does the image involve any wildlife?"
+    ],
+    "383137": [
+        "What type of clothes are the people in the image wearing?"
+    ],
+    "252133": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "383339": [
+        "What is the focus of the image?"
+    ],
+    "121196": [
+        "Is the image a panorama?"
+    ],
+    "514417": [
+        "Does the image have a frame?"
+    ],
+    "383462": [
+        "What is the main object in the image?"
+    ],
+    "121384": [
+        "Does the image contain any symbols?"
+    ],
+    "383549": [
+        "What is the location where the image was taken?"
+    ],
+    "121414": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "134981": [
+        "What is the source of light in the image?"
+    ],
+    "383826": [
+        "What social issues does the image address?"
+    ],
+    "383838": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "514984": [
+        "What type of animals are in the image, if any?"
+    ],
+    "384258": [
+        "What is the point of view in the image?"
+    ],
+    "515421": [
+        "What is the style of the image?"
+    ],
+    "122213": [
+        "Does the image contain any celebrities?"
+    ],
+    "253341": [
+        "What is the main color palette of the image?"
+    ],
+    "253452": [
+        "Are there any repeated elements in the image?"
+    ],
+    "253520": [
+        "What is the main color palette of the image?"
+    ],
+    "384594": [
+        "What is the mood of the image?"
+    ],
+    "122549": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "501047": [
+        "Does the image tell a story?"
+    ],
+    "384901": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "122838": [
+        "Is the image staged or candid?"
+    ],
+    "385115": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "122982": [
+        "What is the depth of field in the image?"
+    ],
+    "122987": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "385248": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "123213": [
+        "Does the image contain a horizon line?"
+    ],
+    "123239": [
+        "Are there any reflections in the image?"
+    ],
+    "385514": [
+        "Does the image look vintage or modern?"
+    ],
+    "385633": [
+        "Is the image a close-up or long shot?"
+    ],
+    "38357": [
+        "What size is the image file?"
+    ],
+    "516733": [
+        "Is the image part of an advertisement?"
+    ],
+    "385707": [
+        "Does the image contain any monuments or landmarks?"
+    ],
+    "254789": [
+        "Does the image depict any professional activities?"
+    ],
+    "254814": [
+        "Does the image contain a horizon line?"
+    ],
+    "86168": [
+        "What type of hairstyle do the people in the image have?"
+    ],
+    "123810": [
+        "What emotions does the image evoke?"
+    ],
+    "254919": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "254931": [
+        "What cultural references can be found in the image?"
+    ],
+    "64342": [
+        "What are the image's copyright information?"
+    ],
+    "254994": [
+        "Does the image have cultural significance?"
+    ],
+    "386189": [
+        "Does the image contain any food items not included in the main meal?"
+    ],
+    "386204": [
+        "Does the image have any connotations or symbolism?"
+    ],
+    "517443": [
+        "Is there any use of symmetry in the image?"
+    ],
+    "517445": [
+        "Does the image look vintage or modern?"
+    ],
+    "517454": [
+        "What size is the image file?"
+    ],
+    "517819": [
+        "Is the image a long exposure shot?"
+    ],
+    "261072": [
+        "Are there any unusual elements in the image?"
+    ],
+    "282940": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "124911": [
+        "Are there any patterns or textures in the image?"
+    ],
+    "124949": [
+        "Does the image contain any controversial elements?"
+    ],
+    "125051": [
+        "What social issues does the image address?"
+    ],
+    "125072": [
+        "Does the image have a frame?"
+    ],
+    "518375": [
+        "What is the source of light in the image?"
+    ],
+    "575921": [
+        "What kind of camera was used to take the photo?"
+    ],
+    "125208": [
+        "What is the source of light in the image?"
+    ],
+    "125286": [
+        "Is the image in a raw or compressed format?"
+    ],
+    "256518": [
+        "What is the age of the people in the image?"
+    ],
+    "125829": [
+        "Is the image a portrait or a group photo?"
+    ],
+    "256973": [
+        "Are there any reflections in the image?"
+    ],
+    "388085": [
+        "Is the image in a raw or compressed format?"
+    ],
+    "125958": [
+        "Are there any bodies of water other than seas, lakes, or rivers in the image?"
+    ],
+    "388395": [
+        "Does the image have borders?"
+    ],
+    "519598": [
+        "What direction is the light coming from in the image?"
+    ],
+    "283217": [
+        "Are there any vehicles other than cars or bikes in the image?"
+    ],
+    "257537": [
+        "Is there a title for the image?"
+    ],
+    "519744": [
+        "Is the image a selfie?"
+    ],
+    "257767": [
+        "What is the source of light in the image?"
+    ],
+    "257971": [
+        "What size is the image file?"
+    ],
+    "127092": [
+        "What is the source of light in the image?"
+    ],
+    "127129": [
+        "Does the image have borders?"
+    ],
+    "127153": [
+        "What is the depth of field in the image?"
+    ],
+    "520401": [
+        "Is the image blurred or sharp?"
+    ],
+    "389699": [
+        "What is the main object in the image?"
+    ],
+    "521141": [
+        "Is the image a selfie?"
+    ],
+    "127971": [
+        "Are there any trees in the image, not including forests?"
+    ],
+    "390147": [
+        "What is the source of light in the image?"
+    ],
+    "521282": [
+        "Does the image have a shallow or a deep depth of field?"
+    ],
+    "521306": [
+        "Is there any motion blur in the image?"
+    ],
+    "521359": [
+        "Are there any filters applied to the image?"
+    ],
+    "521509": [
+        "What is the location where the image was taken?"
+    ],
+    "259452": [
+        "What is the age of the people in the image?"
+    ],
+    "259497": [
+        "Is the image a close-up or long shot?"
+    ],
+    "390627": [
+        "What is the genre of the image?"
+    ],
+    "390704": [
+        "Does the image have a frame?"
+    ],
+    "259761": [
+        "What is the mood of the image?"
+    ],
+    "128812": [
+        "Are there any paths or roads in the image that are not main roads?"
+    ],
+    "128920": [
+        "What is the main object in the image?"
+    ],
+    "391090": [
+        "Is there an obvious use of rule of thirds in the image?"
+    ],
+    "260094": [
+        "What is the texture of the main object in the image?"
+    ],
+    "260105": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "108898": [
+        "What is the orientation of the image? Portrait or landscape?"
+    ],
+    "391255": [
+        "Is the image part of a series or collection?"
+    ],
+    "260238": [
+        "Are there any unusual elements in the image?"
+    ],
+    "522478": [
+        "Does the image contain any celebrities?"
+    ],
+    "391463": [
+        "Are there any geometric shapes in the image?"
+    ],
+    "260486": [
+        "Are there any furniture items other than chairs or tables in the image?"
+    ],
+    "522713": [
+        "Does the image represent a special event or holiday?"
+    ],
+    "260627": [
+        "What are the dimensions of the main object in the image?"
+    ],
+    "129576": [
+        "Are there any unusual elements in the image?"
+    ],
+    "391722": [
+        "Are there any repeated elements in the image?"
+    ],
+    "129592": [
+        "Does the image have alt text?"
+    ],
+    "522941": [
+        "What direction is the light coming from in the image?"
+    ],
+    "260896": [
+        "Does the image contain any celebrities?"
+    ],
+    "480407": [
+        "Is the image historical or contemporary?"
+    ],
+    "480416": [
+        "Is there a title for the image?"
+    ],
+    "130030": [
+        "Is the image a selfie?"
+    ],
+    "130076": [
+        "What is the setting of the image?"
+    ],
+    "130240": [
+        "What size is the image file?"
+    ],
+    "523517": [
+        "What is the texture of the main object in the image?"
+    ],
+    "523529": [
+        "What emotions does the image evoke?"
+    ],
+    "523565": [
+        "Is the image part of an advertisement?"
+    ],
+    "392915": [
+        "What is the dominant color in the image?"
+    ],
+    "130791": [
+        "What size is the image file?"
+    ],
+    "392998": [
+        "What kind of landscape does the image show, if any?"
+    ],
+    "261999": [
+        "Does the image contain any drawings or sketches?"
+    ]
+}
