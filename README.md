@@ -35,7 +35,7 @@ Pretrained perturbation can be found here: https://1drv.ms/u/c/4f881fa19ba8dfee/
     ```
 - Dataset used in the paper
 
-    The dataset used in the paper is a subset of MSCOCO validation set. We provide the dataset in the data/ directory.
+    The dataset used in the paper is a subset of the MSCOCO validation set, which can be downloaded from https://cocodataset.org/#download. The indices for this subset are provided in the data/ directory.
 
 ## Acknowledgement
 We would like to thank the authors of the following repositories for their code: https://github.com/mlfoundations/open_flamingo/
